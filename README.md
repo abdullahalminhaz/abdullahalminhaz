@@ -1,5 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>→ A camera-based self-driving car and intelligent robotics systems using Raspberry Pi, OpenCV, and Python, and deep learning–based fault detection and localization for power transmission lines.<br><br>👯 I’m looking to collaborate on<br>→ Research and development projects in robotics, artificial intelligence, computer vision, power systems, and embedded systems.<br><br>🤝 I’m looking for help with<br>→ Advanced deep learning architectures, research methodology, dataset design, and real-time AI system optimization.<br><br>🌱 I’m currently learning<br>→ Machine Learning, Deep Learning, Computer Vision, ROS, MATLAB/Simulink, and Control Systems.<br><br>💬 Ask me about<br>→ Robotics system design, Python, OpenCV, Raspberry Pi, Arduino, data analysis, SQL, and applied AI projects.<br><br>⚡ Fun fact<br>→ I enjoy transforming research ideas into real-world working prototypes and intelligent machines 🤖
+
+🔭 **Currently Working On**
+- → Autonomous Robotics, Computer Vision & Self-Driving Systems.
+- → AI-based Power System Fault Detection & Localization.
+- → Wi-Fi CSI-based Contactless Respiration Monitoring.
+
+👯 **Looking to Collaborate On**
+- → AI, Robotics, Biomedical Engineering, Power Systems & Embedded Systems.
+
+🤝 **Looking for Help With**
+- → Advanced Deep Learning, Research Methodology & Real-Time AI Optimization.
+
+🌱 **Currently Learning**
+- → Machine Learning, Deep Learning, ROS, Computer Vision & Control Systems.
+
+💬 **Ask Me About**
+- → Python, PyTorch, OpenCV, Raspberry Pi, Arduino, MATLAB & Applied AI.
+
+⚡ **Fun Fact**
+- → Turning research ideas into intelligent, real-world engineering solutions. 🤖
 
 
 ## 🌐 Socials:
