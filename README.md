@@ -3,7 +3,6 @@
 🔭 **Currently Working On**
 - → Autonomous Robotics, Computer Vision & Self-Driving Systems.
 - → AI-based Power System Fault Detection & Localization.
-- → Wi-Fi CSI-based Contactless Respiration Monitoring.
 
 👯 **Looking to Collaborate On**
 - → AI, Robotics, Biomedical Engineering, Power Systems & Embedded Systems.
